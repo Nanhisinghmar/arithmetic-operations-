@@ -26,7 +26,7 @@ Division: 2.0
 - Python
 
 ## Author
-Kajal Singhmar
+Nanhi Singhmar
 
 ## Learning Goal
 This project was created to practice Python basics and arithmetic operators.ions-
